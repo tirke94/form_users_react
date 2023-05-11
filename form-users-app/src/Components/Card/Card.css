@@ -1,0 +1,13 @@
+.card {
+  padding: 1rem;
+  font-size: 1rem;
+}
+.dark {
+  background-color: rgb(42, 18, 18);
+  color: white;
+}
+.crvena {
+  display: flex;
+  justify-content: center;
+  column-gap: 2rem;
+}

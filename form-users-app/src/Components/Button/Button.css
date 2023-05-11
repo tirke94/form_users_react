@@ -1,0 +1,18 @@
+#addUser,
+.btnDelete {
+  display: block;
+  padding: 5px 10px;
+  background-color: red;
+  color: yellow;
+  font-size: 1.5rem;
+  font-weight: 700;
+  border: none;
+  border-radius: 5px;
+  transition: all 250ms ease-in-out;
+  cursor: pointer;
+}
+#addUser:hover {
+  background-color: yellow;
+  color: red;
+  scale: 1.1;
+}
